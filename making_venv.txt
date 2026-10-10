@@ -1,0 +1,3 @@
+python -m venv env    to make enviroment
+env\Scripts\activate     use to activate
+deactivate                use to deactivate
