@@ -1,3 +1,11 @@
 python -m venv env    to make enviroment
 env\Scripts\activate     use to activate
 deactivate                use to deactivate
+
+
+creating requrements.txt
+pip freeze > requirements.txt       this give us all the packeges install in a venv
+
+pip freeze     to see all packege
+
+pip install -r requirements.txt   this is to install all packegs in one time
